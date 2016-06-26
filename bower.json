@@ -1,0 +1,30 @@
+{
+  "name": "road-to-wceu-frontend",
+  "version": "1.0.0",
+  "authors": [
+    {
+      "name": "Jeremy Zahner",
+      "email": "zahner@joshmartin.ch"
+    }
+  ],
+  "description": "Frontend for the Road to WCEU Project Website.",
+  "main": "",
+  "moduleType": [
+    "node"
+  ],
+  "license": "MIT",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "vendor",
+    "bower",
+    "test",
+    "tests"
+  ],
+  "dependencies": {},
+  "devDependencies": {
+    "flexboxgrid": "^6.3.0"
+  },
+  "overrides": {}
+}
